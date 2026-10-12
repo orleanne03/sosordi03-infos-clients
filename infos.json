@@ -1,14 +1,14 @@
 {
   "messages": [
     {
-      "id": "info-20261012-112224",
+      "id": "info-20261012-113355",
       "active": true,
       "title": "Information SOS ORDI 03",
       "message": "test",
       "start_date": "2026-10-12",
       "end_date": "",
       "target": "all",
-      "image_url": "media/info-20261012-112224.jpg"
+      "image_url": "media/info-20261012-113355.jpg"
     }
   ]
 }
