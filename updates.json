@@ -1,0 +1,10 @@
+{
+  "schema": 1,
+  "channel": "stable",
+  "version": "0.7.11",
+  "tag": "v0.7.11",
+  "asset": "SOSORDI03_Client_Setup_v0.7.11.exe",
+  "sha256": "002ee00985d2cdbf4b047acd4f28863c82e12d67c7726d586d06184cf03dbd11",
+  "size": 69352319,
+  "notes": "Test du système de mise à jour automatique GitHub – version 0.7.11"
+}
