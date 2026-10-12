@@ -1,0 +1,13 @@
+{
+  "messages": [
+    {
+      "id": "test-001",
+      "title": "Information SOS ORDI 03",
+      "message": "Ceci est un message de test.",
+      "target": "all",
+      "active": true,
+      "start_date": "2026-10-12",
+      "end_date": ""
+    }
+  ]
+}
