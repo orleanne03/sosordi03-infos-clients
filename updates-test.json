@@ -1,10 +1,10 @@
 {
   "schema": 1,
   "channel": "test",
-  "version": "0.7.21",
-  "tag": "v0.7.21",
-  "asset": "SOSORDI03_Client_Setup_v0.7.21.exe",
-  "sha256": "ce0657f8769f82753447087971ea84b7c2d2c8932383e10ec2bab8bd2c33fa06",
-  "size": 69686958,
+  "version": "0.7.22",
+  "tag": "v0.7.22",
+  "asset": "SOSORDI03_Client_Setup_v0.7.22.exe",
+  "sha256": "50f2c7dfbcb7b19521efd0163b4887de2eb96e8adab3edfc79da58b80260ccee",
+  "size": 69689741,
   "notes": ""
 }
